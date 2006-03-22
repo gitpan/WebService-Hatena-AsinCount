@@ -16,7 +16,7 @@ SYNOPSIS
 DESCRIPTION
     WebService::Hatena::AsinCount is a interface for "bookmark.getAsinCount"
     method provided by Hatena::Bookmark:Asin XML-RPC API.
-    This module follows WebService-Hatena-AsinCount module.
+    This module follows WebService-Hatena-BookmarkCount module.
     I respect the author very much and want to say 'thank you'.
 
 METHODS

@@ -5,7 +5,7 @@
     use XML::TreePP;
 # ----------------------------------------------------------------
     use vars qw( $VERSION $XMLRPC_URL );
-    $VERSION = "0.01";
+    $VERSION = "0.02";
     $XMLRPC_URL = 'http://b.hatena.ne.jp/xmlrpc';
 # ----------------------------------------------------------------
 
@@ -29,7 +29,7 @@ WebService::Hatena::AsinCount -- Interface for Hatena::Bookmark:Asin's getCount 
 
 WebService::Hatena::AsinCount is a interface for 
 "bookmark.getAsinCount" method provided by Hatena::Bookmark:Asin XML-RPC API.
-This module follows WebService-Hatena-AsinCount module.
+This module follows WebService-Hatena-BookmarkCount module.
 I respect the author very much and want to say 'thank you'.
 
 =head1 METHODS
